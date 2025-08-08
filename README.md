@@ -29,6 +29,6 @@ Meu principal objetivo é entrar no mercado de tecnologia como desenvolvedor e s
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-cruz-4a467b377/)  
-- E-mail: seuemail@email.com *(troque pelo seu real)*  
+- E-mail: gustavocruzsantos39@gmail.com 
 
 Muito obrigado por visitar meu perfil! 🚀
