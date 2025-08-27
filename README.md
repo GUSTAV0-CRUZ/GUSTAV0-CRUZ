@@ -1,22 +1,23 @@
 # gustavocruz
 Perfil proficional com foco em tecnologia, estudos e portfólio.
-# 👋 Olá, eu sou o Gustavo Cruz!
+## 👋 Olá, eu sou o Gustavo Cruz!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFRAN (Cruzeiro do Sul Virtual)  
-💻 Aspirante a Desenvolvedor Full Stack  
-🌱 Atualmente estudando: Algoritmos, Pensamento Computacional, Desenvolvimento Web, Modelagem de Banco de Dados e Design Profissional  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFRAN (Cruzeiro do Sul)  
+📘 Cursando JavaScript e TypeScript (Udemy)
+🌱 Aspirante a Desenvolvedor Full Stack 
 🚀 Em busca da primeira oportunidade na área de TI
 
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- HTML5 & CSS3  
-- Python (básico)  
-- Lógica de programação  
-- Versionamento com Git e GitHub  
-- Pensamento computacional  
-- Design aplicado ao desenvolvimento
+- JavaScrip  
+- TypeScript
+- HTML5 & CSS3
+- React.js
+- Node.js & Express
+- Banco de Dados
+- Git e GitHub  
 
 ---
 
