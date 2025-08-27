@@ -3,9 +3,9 @@ Perfil proficional com foco em tecnologia, estudos e portfólio.
 ## 👋 Olá, eu sou o Gustavo Cruz!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFRAN (Cruzeiro do Sul)  
-📘 Cursando JavaScript e TypeScript (Udemy)
-🌱 Aspirante a Desenvolvedor Full Stack 
-🚀 Em busca da primeira oportunidade na área de TI
+📘 Cursando JavaScript e TypeScript (Udemy)  
+🌱 Aspirante a Desenvolvedor Full Stack  
+🚀 Em busca da primeira oportunidade na área de TI  
 
 ---
 
