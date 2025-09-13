@@ -23,7 +23,7 @@ Perfil proficional com foco em tecnologia, estudos e portfólio.
 
 ## 🎯 Objetivos
 
-Meu principal objetivo é entrar no mercado de tecnologia como desenvolvedor e seguir evoluindo para me tornar um profissional completo no desenvolvimento Full Stack, sempre com foco em boas práticas, inovação e aprendizado contínuo.
+Meu principal objetivo é me tornar um profissional completo no desenvolvimento Full Stack, sempre com foco em boas práticas, inovação e aprendizado contínuo.
 
 ---
 
