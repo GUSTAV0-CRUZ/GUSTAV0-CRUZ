@@ -17,7 +17,8 @@ Perfil proficional com foco em tecnologia, estudos e portfólio.
 - React.js
 - Node.js & Express
 - Banco de Dados
-- Git e GitHub  
+- Git e GitHub
+- Linguagem C 
 
 ---
 
