@@ -5,7 +5,7 @@ Perfil proficional com foco em tecnologia, estudos e portfólio.
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFRAN (Cruzeiro do Sul)  
 📘 Cursando JavaScript e TypeScript (Udemy)  
 🌱 Aspirante a Desenvolvedor Full Stack  
-🚀 Em busca da primeira oportunidade na área de TI  
+🚀 Comprometido com aprendizado contínuo e boas práticas de programação
 
 ---
 
