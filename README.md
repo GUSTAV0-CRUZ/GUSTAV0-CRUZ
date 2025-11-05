@@ -28,7 +28,7 @@ Perfil proficional com foco em tecnologia, estudos e portfólio.
 
 ## 🎯 Objetivos
 
-Meu principal objetivo é me tornar um profissional completo no desenvolvimento Full Stack, sempre com foco em boas práticas, inovação e aprendizado contínuo.
+Meu objetivo é consolidar uma base sólida em back-end com Node.js e, futuramente, aprofundar meus conhecimentos em TypeScript e integração front-end, buscando atuar como Desenvolvedor Júnior e crescer de forma contínua na área de tecnologia.
 
 ---
 
