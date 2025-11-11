@@ -1,4 +1,4 @@
-# gustavocruz
+# Gustavo Cruz
 Perfil proficional com foco em tecnologia, estudos e portfólio.
 ## 👋 Olá, eu sou o Gustavo Cruz!
 
