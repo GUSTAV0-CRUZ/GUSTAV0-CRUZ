@@ -3,7 +3,7 @@ Desenvolvedor Backend Node.js | TypeScript | Software Architecture Enthusiast
 
 ## 👋 Olá, eu sou o Gustavo Cruz!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – UNIFRAN  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvedor Backend com foco no ecossistema **JavaScript/TypeScript**, focado na construção de APIs escaláveis e bem estruturadas.  
 🚀 Atualmente aprofundando conhecimentos em **Arquitetura de Microsserviços** e reforçando a base de **Engenharia de Software com Java**.
 
